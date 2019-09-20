@@ -169,7 +169,7 @@ from math import *
 #except:
 #    print("Invalid Input")
 
-#example_file = open("example2.txt", "w")
+#example_file = open("Kivypractice.txt", "w")
 #example_file.write("\nKelly - Customer Service")
 #example_file.close()
 
